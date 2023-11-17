@@ -1,3 +1,4 @@
+https://github.com/jaymody/seq2seq-polynomial
 # NLP seq2seq task: Derivatives
 
 ### Files 
