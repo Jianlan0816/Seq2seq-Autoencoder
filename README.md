@@ -1,4 +1,4 @@
-# NLP take-home: Derivatives
+# NLP seq2seq task: Derivatives
 
 ### Files 
 - network.txt: parameters summarization
