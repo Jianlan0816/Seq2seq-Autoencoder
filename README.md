@@ -1,8 +1,8 @@
 # NLP take-home: Derivatives
 
 ### Files 
-# network.txt: parameters summarization
-# requirements.txt: package version list
+- network.txt: parameters summarization
+- requirements.txt: package version list
 
 # ./seq2seq_derivative/data.py: partition train.txt into training and testing
 # ./seq2seq_derivative/layers.py: layers construction
